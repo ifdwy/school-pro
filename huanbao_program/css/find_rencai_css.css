@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body{
+	font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size:14px;
+	
+	}
+
+.wenben{
+	background-color:#EFEFEF;
+	margin:10px 0 0 25px;
+		}
+.shuzi{color:#F60;}
+		
+.job_list a:hover{
+	color:red;
+	<!--text-decoration:none;  -->
+		         }
+.job_list_more{
+	margin-left:25px; 
+	margin-bottom:25px;
+	background-color:#EFEFEF;
+	}
+.job_list_more_p{ text-indent:1em;}
+.job_list_left{
+	width:760px;
+	height:500px;
+	border:solid 1px #C4C4C4;}
+.job_list_right{
+	margin-left:40px;
+	width:315px;
+	height:500px;
+	border:solid 1px #C4C4C4;}
+.right{ font-size:12px;}
+.right_m{ color:#C6C;}
+
+.workdetail_left{
+	width:660px;
+	height:500px;
+	border:solid 1px #C4C4C4;
+	}
+.workdetail_right{
+	margin-left:10px;
+ 	
+	width:315px;
+	height:500px;
+	border:solid 1px #C4C4C4; 
+	}
+	
+	

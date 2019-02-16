@@ -1,0 +1,149 @@
+a:link,a:visited{color: black; text-decoration: none;}
+a:hover{color: red;}
+.imge{margin-left: 50px;}
+.load{
+	width: 1200px;
+	height: 1150px;
+	border:1px solid black;
+	margin-left:100px;
+}
+.naav{
+	width: 200px;
+	height: 1000px;
+	border:1px solid black;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.naav h2{color: blue;text-align: center;}
+.naav ul{margin-top: 50px;}
+
+.load_right{
+	width: 900px;
+	height: 1000px;
+	border:1px solid black;
+	margin-right:50px;
+	margin-top: 5px;
+}
+.load_right .lunbo{
+	width: 600px;
+	height: 300px;
+	margin-top: 5px;
+	margin-left: 5px;
+	border:1px solid black;
+
+}
+.load_right .denglu{
+	width: 260px;
+	height: 300px;
+	margin-top: 5px;
+	margin-right:10px;
+	border:1px solid black;
+
+}
+.load_right .success{
+	width: 882px;
+	height: 350px;
+	margin-top: 320px;
+	border:1px solid black;
+	margin-left: 5px;
+}
+
+.load_right .success .fabu{
+	border:1px solid black;
+	width: 260px;
+	height: 340px;
+	margin: 5px 0 5px 5px;
+}
+
+.load_right .success .success_right{
+	width: 590px;
+	height: 340px;
+	margin: 5px 10px 5px 5px;
+	border:1px solid black;
+}
+
+.load_right .success .success_right .xuqiu{
+	border:1px solid black;
+	width: 300px;
+	height: 330px;
+	margin: 5px 0 5px 5px;
+}
+
+.load_right .success .success_right .tuijian{
+	border:1px solid black;
+	width: 260px;
+	height: 330px;
+	margin: 6px 10px 5px 5px;
+}
+
+.load_right .right_bottom{
+	width: 882px;
+	height: 310px;
+	border:1px solid black;
+	margin: 10px 5px 5px 5px;
+}
+
+.load_right .right_bottom .zhuanjia{
+	width: 350px;
+	height: 300px;
+	margin: 5px 0 5px 5px;
+	border:1px solid black;
+}
+
+.load_right .right_bottom .zixun{
+	width: 500px;
+	height: 300px;
+	margin: 5px 5px 5px 5px;
+	border:1px solid black;
+}
+
+.lianjie{
+	width: 1140px;
+	height: 100px;
+	border:1px solid black;
+	margin-top: 1010px;
+	margin-left:10px;
+}
+
+
+
+
+
+
+.load h5{text-align: center;}
+
+
+
+
+.load_right .carousel-control{
+	font-size: 100px;
+	line-height: 300px;
+
+}
+
+.load_right .form_left{
+	margin-left: 15px;
+}
+
+.load_right .form_right{
+	margin-right: 30px;
+}
+
+.load_right .denglu h5{color:#00FFFF;margin-top: 10px; font-size: 18px;}
+.denglu .btn{margin-left:80px;}
+.denglu .form{margin-top: 10px;}
+
+.success ul{
+	margin-left: -20px;
+	font-size: 10px;
+
+}
+
+
+.test{
+	width: 50px;
+	height: 50px;
+	border:1px solid black;
+	margin-top: 1500px;
+
+}

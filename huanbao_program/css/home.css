@@ -1,0 +1,281 @@
+
+
+#timeline {width: 950px;height:72px;overflow: hidden;margin: 35px auto;position: relative;background: url('/app/template/yun3.2/js/day/img/dot.gif') left 45px repeat-x; margin-bottom:16px;}
+#dates {width: 950px;height: 40px;overflow: hidden;}
+#dates li {list-style: none;float: left;width: 150px;height: 40px;font-size: 14px;text-align: center;background: url('/app/template/yun3.2/js/day/img/biggerdot.png') center bottom no-repeat;}
+#dates a {line-height: 16px;padding-bottom: 4px; }
+#dates .selected {color: #FF0000;font-size: 18px;}
+#issues {width: 95px;height:72px;overflow: hidden;}	
+#issues li {width: 950px;height: 72px;list-style: none;float: left;}
+#issues li h1 {color: #1F7FCC;font-size: 14px;margin: 15px 0;text-shadow: #eee 1px 1px 2px;}
+#issues li p {font-size: 12px;margin-right: 40px; margin:10px; font-weight: normal;line-height: 12px;}
+
+
+a:link,a:visited{color: black; text-decoration: none;}
+a:hover{color: red;}
+#user{margin-top: 20px;}
+
+
+.container .col-md-1 {
+    border: 1px solid red;
+    height: 200px;
+	
+    margin-top: 18px;
+}
+
+.container .col-md-2 {
+	border: 1px solid #0C6;
+	height: 200px;
+	margin-top: 18px;
+
+	.container .col-md-5 .li{
+	float: right;
+	}
+	font-size:10px;
+}
+
+ .container .col-md-3 {
+    border: 1px  solid gray;
+    height: 200px;
+
+    margin-top: 18px;
+}
+.myCarousel-right{
+	border: 1px solid gray;
+	height: 200px;
+
+	margin-top:18px;
+	
+	}
+
+.container .col-md-4 {
+	border: 1px solid gray;
+	padding-top: 0px;
+	}
+.container .col-md-5 {
+	border: 1px solid #0C6;
+	
+	margin-top: 0px;
+
+	
+}
+
+.container .col-md-6 {
+	border: 1px solid gray;
+	height: 200px;
+	margin-top: 18px;
+	
+}
+.container .col-md-12{
+	border: 1px solid gray;
+    margin-top: 18px;
+	height: 200px;
+	}
+
+
+.container .home2-1{border: 1px solid gray; height: 125px; width: 375px; margin-left: 10px; }
+.container .home2-1 img{float: left; margin-right: 10px; margin-top:5px;}
+.container .home2-1 span{float: right;}
+.container .home2-1 p{font-size: 4px;}
+
+
+
+.col-md-4 .yuin_index_r .yuin_index_r_h1 .nav.nav-tabs li {
+	float: left;
+}
+.container .row.two .col-md-9 .index_Emergency_job #timeline #dates li {
+	float: left;
+	list-style-type: upper-alpha;
+}
+.index_Emergency_job .container .row.two .col-md-9 .index_Emergency_job #timeline #dates li a {
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	height: 20px;
+	width: 175px;
+	margin-left: 2px;
+	padding-top: 4px;
+	list-style-type: none;
+}
+.index_Emergency_job .container .row.two .col-md-9 .index_Emergency_job .Latest_talent_h1_xf div {
+	text-align: right;
+}
+
+
+.new-Left{
+border:1PX SOLID gray;
+
+margin-top:18px;
+}
+
+
+.new-right{
+border:1PX SOLID gray;
+
+margin-top:18px;
+}
+
+.page-header-size{
+	font-size:14px;
+	margin-top:0px;
+	}
+	.Emergency_list{
+		float:left;
+		width:350px;
+		height:24px;
+		}
+		
+.Latest_talent_list_a{
+	    float:left;
+		width:200px;
+		height:24px;
+	}
+
+.page-header{
+	margin-top:10px;
+			}
+			
+.pull-right-size{
+	font-size: 14px;
+				}
+
+
+.container .row .col-md-4.new-right .tale {
+	margin-top: 18px;
+	margin-bottom: 15px;
+	padding: 2px;
+}
+
+
+.Featured_Jobs_t1{
+	 float:left; 
+	 width:600px;
+	 height:24px; 
+	}
+.Featured_Jobs_t2{
+	 float:left; 
+	 width:600px;
+	 height:24px; 
+	}
+
+
+.cl{
+border: 1px ;
+height: 100px;
+ margin-left: 0px;
+}
+.changsha{
+    border: 1px ;
+   
+    margin-top: 5px;
+}
+
+.container .col-md-9.new-left{
+	    border:1PX SOLID gray;
+		margin-top:18px;
+	}
+.container .col-md-3.new-right{
+	    border:1PX SOLID gray;
+		margin-top:18px;
+	}
+
+.container .row.two .col-md-9.new-left .col-md-5.new-right {
+	border: 1px ;
+	margin-left: 40px;
+}
+.container .row.two .col-md-3.new-right .page-header .page-header-size {
+	font-size: 16px;
+	margin-top: 0px;
+	background-color: ;
+}
+.container .row.two .col-md-3.new-right .page-header {
+	background-color: #C96;
+	height: 22px;
+}
+.container .row.two .col-md-3.new-right .page-header .pull-right.pull-right-size a {
+	font-size: 16px;
+}
+
+
+
+.container .row.two .col-md-9.new-left .col-md-5.new-Left {
+	border: 1px ;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+.container .row.two .col-md-12.new-big {
+	border: 1px solid #3FF;
+	
+}
+
+.container .row.three .col-md-12.new-big .page-header .pull-right.pull-right-size {
+	font-size: 10px;
+}
+.container .row.three .col-md-12.new-big .col-md-4.index_right div ul li {
+	float: left;
+	width: auto;
+}
+.container .row.three .col-md-12.new-big {
+	height: 320px;
+}
+.container .row.three .col-md-12.new-big .col-md-4.index_right {
+	
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.container .row.three .col-md-12.new-big .col-md-4.index_TOP {
+	border: 1px dashed #999;
+}
+.container .row.three .col-md-12.new-bottom {
+	border: 1px solid #F03;
+}
+.container .row.two .container .row.two.row-height .col-md-3.new-right .page-header .page-header-size strong {
+	font-size: 12px;
+}
+.container .row.two .container .row.two.row-height .col-md-3.new-right .page-header .pull-right.pull-right-size {
+	font-size: 12px;
+}
+.container .row.two .container .row.two.row-height .col-md-3.new-right .page-header .pull-right.pull-right-size a {
+	font-size: 12px;
+}
+.container .row.two .container .row.two.row-height .col-md-3.new-right .new-right_nei {
+	margin-top: 0px;
+	padding: 0px;
+}
+
+.container .row.two .container .row.two.row-height .col-md-3.new-right .new-right_nei ul .Emergency_list a {
+	font-size: 12px;
+}
+.container .row.two .container .row.two.row-height .col-md-3.new-right .page-header {
+}
+
+
+.container .row.three .col-md-12.new-bottom {
+	border: 1px solid gray;
+	height: auto;
+}
+.container .row.three .col-md-12.new-bottom .page-header .row .col-sm-6.col-md-3 {
+	height: 140px;
+}
+.row.two .container .container .row.two .col-md-3.new-right .page-header {
+	margin-bottom: 20px;
+}
+
+.row-height{
+
+border: 1px red gary;
+}.container .row.two .container .row .col-md-4.new-right {
+}
+.container .row.two .container .row .col-md-4.new-right .tale table {
+	padding-bottom: 18px;
+}
+.container .row.two .container .row.two.row-height .col-md-3.new-right .page-header {
+	font-size: 12px;
+	margin-top: 0px;
+}
+.container .row.two .container .row.two.row-height .col-md-3.new-right .new-right_nei {
+	margin-top: 0px;
+	height: 160px;
+}

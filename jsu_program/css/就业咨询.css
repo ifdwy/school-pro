@@ -1,0 +1,88 @@
+ .*{
+    margin: 0px;
+    padding: 0px;
+
+ }
+ .wenben{
+            background-color:#F5F5F5;
+            margin:10px 0 0 25px;
+            
+        }
+ }
+
+.shuzi{color:#F60;}
+
+.myCarousel{
+height: 263px;
+margin-right: 0.5px;
+}
+
+.news_top_right{
+     border: solid 1px #ccc;
+     margin-top: 10px;
+     height: 263px;
+     margin-bottom: 10px;
+    
+}
+
+.news_top_left{
+     
+     margin-top: 10px;
+     height: 263px;
+     margin-bottom: 10px;
+
+}
+
+.news_top_right  a:hover{
+text-decoration: none;
+}
+
+.details{
+    margin-top: 6px;
+}
+.news_top_right ul li{
+    width:353px;
+    height:25px;
+    float: left;
+    color:#FC3;
+}
+
+.news_top_right ul li span{
+    color: gray;
+}
+
+.new-middle .col-md-4{
+    border: 1px solid #CCC;
+    height: 333px;
+}
+
+.page-header{
+    margin-top: 15px ;
+    font-size: 20px;
+}
+
+.container ul li{
+    margin-top:6px;
+
+}  
+
+.button .col-md-4{
+    border: 1px solid #CCC;
+    height: 333px;
+    margin-top: 10px;
+}
+
+.obx{
+    width: 240px;
+    height: 76px;
+    
+    text-align: right;
+}
+.list-word{
+    letter-spacing: 3px;
+}
+
+
+
+a:link,a:visited{color: black; text-decoration: none;}
+a:hover{color: red;}

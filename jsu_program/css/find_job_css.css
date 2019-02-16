@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+a:link,a:visited{color: black; text-decoration: none;}
+a:hover{color: red;}
+.load{
+	 height:400px; width:auto; border:2px solid black; 
+	 margin-top:30px;
+	 margin-left:200px;
+	 margin-right:200px;
+	
+	}
+.load form{
+	width: 300px;
+	height: 320px;
+	margin-top: 50px;
+	margin-left:20px;
+	border:2px dashed gray;
+}
+.load .left{margin-left:10px;}
+.load .right{margin-right:20px;}
+.load button{margin-left: 30px;}
+.img_right{
+	width: 300px;
+	height: 320px;
+	margin-top: 50px;
+	
+	border:2px dashed gray;
+
+}
+
+.top a{ color:#FFF; text-decoration:none;}
+.top a:active{ color:#F00;}
+.body{
+	font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size:14px;
+	}
+.wenben{
+	background-color:#EFEFEF;
+	margin:10px 0 0 25px;
+		}
+.shuzi{color:#F60;}
+
+.job_list a{ color:#333; text-decoration:none;}
+.job_list a:hover{ color:#F00; text-decoration:none; }
+.job_list a:active{ color:#00F;}
+
+.job_list_collapse{ margin-top:10px;}
+.job_list_more{
+	margin-left:25px; 
+	margin-bottom:25px;
+	background-color:#EFEFEF;
+	}
+.job_list_more_p{ text-indent:1em;}
+.job_list_left{
+	width:760px;
+	height:500px;
+	border:solid 1px #C4C4C4;}
+.job_list_right{
+	margin-left:40px;
+	width:315px;
+	height:500px;
+	border:solid 1px #C4C4C4;}
+.right{ font-size:12px;}
+.right_m{ color:#C6C;}
+
+.workdetail_left{
+	margin-left:5px;
+	margin-top:10px;
+	width:660px;
+	height:500px;
+	border:solid 1px #C4C4C4;
+	}
+.workdetail_right{
+	margin-top:10px;
+	margin-left:30px;
+    margin-right:145px;
+	width:300px;
+	height:500px;
+	border:solid 1px #C4C4C4; 
+	}
+.workdetail_p{ color:#00F;}
+.workdetail_jiangli{
+	font-size:10px;
+	background-color:#D6D6D6;
+	border:solid 1px #33FF00;
+	}
+.workdetail_date{
+	font-size:8px;
+	margin-left:10px;
+	}
+.workdetail_jingyan{
+	margin-left:70px;}
+.workdetail{
+	background-color:#EBEBEB;
+	height:30px;
+	margin-top:30px;
+	}
+.workdetail_logo{
+	margin-left:30px;
+	width:200px;
+	height:100px;
+	border:solid 1px #CCCCCC;}
+.workdetail_logo_title{
+	margin-top:10px; 
+	font-size:18px; 
+	color:blue;}
+	
+.company_left{
+	margin-left:5px;
+	margin-top:10px;
+	width:660px;
+	height:500px;
+	border:solid 1px #C4C4C4;
+	}
+.company_right{
+	margin-top:10px;
+    margin-right:175px;
+	width:300px;
+	height:500px;
+	border:solid 1px #C4C4C4; 
+	}
+.company_left_right{ margin-left:15px;}
+.company_job{margin-left:20px;}

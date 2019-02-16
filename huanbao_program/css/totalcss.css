@@ -1,0 +1,298 @@
+
+a:link,a:visited{color: black; text-decoration: none;}
+a:hover{color: red;}
+.imge{margin-left: 50px;}
+.load{
+	width: 1200px;
+	height: 1500px;
+	border:1px solid black;
+	margin-left:100px;
+}
+/*.load .nav{position: fixed;margin-left: 10px;}*/
+
+.naav{
+	width: 200px;
+	height: 1350px;
+	border:2px solid black;
+	margin-left: 10px;
+	margin-top: 5px;
+	
+}
+.naav .naav_top{
+	width: 185px;
+	height: 500px;
+	border:2px solid red;
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-top: 5px;
+	background-color: #66B3FF;
+
+}
+.naav .naav_down{
+	width: 185px;
+	height: 825px;
+	border:2px solid red;
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-top: 5px;
+	background-color: #66B3FF;
+
+}
+
+.naav_down h3{margin-top: 50px;text-align: center;}
+.naav_down p{margin-top: 55px;text-align: center;line-height: 40px;}
+
+.naav h2{color: blue;}
+.naav ul{margin-top: 50px;text-align: center;font-size: 18px;}
+
+.load_right{
+	width: 900px;
+	height: 1350px;
+	border:1px solid black;
+	margin-right:50px;
+	margin-top: 5px;
+}
+.load_right .lunbo{
+	width: 600px;
+	height: 300px;
+	margin-top: 5px;
+	margin-left: 5px;
+	border:0px solid black;
+
+}
+.load_right .denglu{
+	width: 260px;
+	height: 300px;
+	margin-top: 5px;
+	margin-right:10px;
+	border:1px solid black;
+
+}
+.load_right .success{
+	width: 882px;
+	height: 350px;
+	margin-top: 320px;
+	border:1px solid black;
+	margin-left: 5px;
+}
+
+.load_right .success .fabu{
+	border:1px solid black;
+	width: 430px;
+	height: 330px;
+	margin: 5px 0px 0px 5px;
+}
+
+/*.load_right .success .success_right{
+	width: 590px;
+	height: 340px;
+	margin: 5px 10px 5px 5px;
+	border:0pxpx solid black;
+}
+*/
+.load_right .success .success_right .xuqiu{
+	border:1px solid black;
+	width: 430px;
+	height: 330px;
+	margin: 5px 5px 0px 5px;
+}
+
+/*.load_right .success .success_right .tuijian{
+	border:1px solid black;
+	width: 260px;
+	height: 330px;
+	margin: 6px 10px 5px 5px;
+}
+*/
+
+.load_right .pannel_top{
+	width: 900px;
+	height: 1250px;
+	border:0px solid red;
+}
+
+.load_right .fenye{
+	margin-top:50px;
+	margin-left: 200px;
+}
+.lianjie{
+	width: 1140px;
+	height: 100px;
+	border:1px solid black;
+	margin-top: 1360px;
+	margin-left:10px;
+	background-color: #BEBEBE;
+}
+
+.lianjie table{margin:5px 5px 5px 25px;}
+
+.lianjie td{
+	width: 155px;
+	height: 80px;
+	border:0px solid black;
+	margin-left:5px;
+}
+
+
+
+.load h5{text-align: center;}
+
+.load_right .carousel-control{
+	font-size: 100px;
+	line-height: 300px;
+
+}
+
+.load_right .form_left{
+	margin-left: 15px;
+}
+
+.load_right .form_right{
+	margin-right: 30px;
+}
+
+.load_right .denglu h5{color:#00FFFF;margin-top: 10px; font-size: 18px;}
+.denglu .btn{margin-left:80px;}
+.denglu .form{margin-top: 10px;}
+
+.load_right ul{
+	margin-left: -20px;
+	font-size: 10px;
+
+}
+
+
+.list2_btn{margin-top: 5px;}
+
+
+/*科技行业资讯的css*/
+.load_right .right_bottom_top{
+	width: 882px;
+	height: 220px;
+	border:1px solid black;
+	margin: 10px 5px 5px 5px;
+}
+
+/*.load_right .right_bottom_top .right_bottom_down1{
+	width: 850px;
+	height: 90px;
+	border: 1px dashed red;
+	margin-top:5px;
+}
+*/
+/*.load_right .right_bottom_top ul{
+	margin-left: -20px;
+	font-size: 10px;
+
+}*/
+.load_right .right_bottom_top .fabu{
+	border:1px solid black;
+	width: 430px;
+	height: 210px;
+	margin: 5px 0px 0px 5px;
+}
+
+.load_right .right_bottom_top .xuqiu{
+	border:1px solid black;
+	width: 430px;
+	height: 210px;
+	margin: 5px 5px 0px 5px;
+}
+
+
+
+/*科技行业资讯1的css*/
+.load_right .right_bottom_center{
+	width: 882px;
+	height: 220px;
+	border:1px solid black;
+	margin: 10px 5px 5px 5px;
+}
+
+.load_right .right_bottom_center .tuijian{
+	border:1px solid black;
+	width: 287px;
+	height: 210px;
+	margin: 5px 0px 5px 5px;
+}
+
+
+/*专家库的css*/
+.load_right .right_bottom_down{
+	width: 882px;
+	height: 205px;
+	border:1px solid black;
+	margin: 10px 5px 5px 5px;
+}
+
+.right_bottom_down .right_bottom_top_img{
+	width: 150px;
+	height: 125px;
+	border: 0px dashed black;
+	margin-left: 5px;
+}
+
+.right_bottom_down .right_bottom_top_img .carousel-inner img{
+	width: 100px;
+	height: 100px;
+	border: 1px dashed black;
+	
+}
+
+.right_bottom_down caption{background-color:#FFECEC;}
+
+/*专家库more的css*/
+.load .zhuanjia{
+	margin:10px 10px 5px 5px;
+	width: 272px;
+	height: 280px;
+	border: 1px dashed black;
+
+}
+
+.zhuanjia .zhuanjia_img{
+	width: 100px;
+	height: 100px;
+	border: 1px dashed black;
+	margin: 5px 86px 5px 86px;
+}
+
+.zhuanjia .zhuanjia_jianjie{
+	width: 260px;
+	height: 130px;
+	border: 1px dashed black;
+	margin: 5px 5px 5px 5px;
+}
+
+/*环保科技资讯盒子css*/
+.load .zixun_1{
+	width: 860px;
+	height: 940px;
+	margin: 10px 5px 5px 5px;
+	border: 1px dashed red;
+}
+
+/*登陆跳转css*/
+.welcome_1{
+	margin:20px 0px 0px 20px;
+	font-size: 15px;
+	color: blue;
+
+}
+
+.welcome_1 .icon{
+	margin-left: 50px;
+}
+
+.welcome_1 .icon a.tooltip:hover span{
+	display: none;
+	position: relative;
+}
+.expertimg{
+	margin:20px 20px 20px 80px;
+	width: 100px;
+	height: 100px;
+	border: 1px dashed black;
+	
+}
+

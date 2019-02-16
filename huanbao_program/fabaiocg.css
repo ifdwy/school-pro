@@ -1,0 +1,36 @@
+.fabiao_top{
+	width: 870px;
+	height: 300px;
+	border: 1px dashed black;
+	margin:10px 10px 10px 10px;
+}
+
+.fabiao_center{
+	width: 870px;
+	height: 50px;
+	border: 1px dashed black;
+	margin:10px 10px 10px 10px;
+	text-align: center;
+	background-color: #97CBFF;
+}
+
+.fabiao_center h3{
+	text-align: center;
+	font-size: 18px;
+	margin-top: 15px;
+}
+
+.fabiao_down{
+	width: 870px;
+	height: 800px;
+	border: 1px dashed black;
+	margin:10px 10px 10px 10px;
+
+}
+
+.fabiao_top h3{font-size: 18px; text-align: center;}
+
+.fabiao_top .fabiao_top1{
+	margin-left: 10px;
+	margin-top: 10px;
+}
